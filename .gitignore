@@ -1,5 +1,7 @@
 _*
 !__tests__
-/dist
+/assets/dist
+/dist/*
+!/dist/react-rte.js
 /lib
 /node_modules
